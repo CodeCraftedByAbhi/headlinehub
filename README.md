@@ -32,7 +32,7 @@ Headline Hub is a React.js-based application that fetches and displays the lates
 
 ## Screenshots 🖼️
 
-Add screenshots of the application here to showcase its interface and features.
+<img src="SS.png">
 
 ---
 
