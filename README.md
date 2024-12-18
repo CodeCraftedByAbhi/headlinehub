@@ -53,11 +53,11 @@ This project was created by **Abhishek Das**.
 ### Installation 🛠️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/headline-hub.git
+   git clone https://github.com/CodeCraftedByAbhi/headlinehub.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd headline-hub
+   cd headlinehub
    ```
 3. Install dependencies:
    ```bash
