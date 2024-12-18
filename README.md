@@ -81,7 +81,3 @@ This project was created by **Abhishek Das**.
 Contributions are welcome! Feel free to submit a pull request or open an issue to report bugs or suggest new features.
 
 ---
-
-## License 📄
-This project is licensed under the MIT License. See the LICENSE file for details.
-
