@@ -26,7 +26,7 @@ Headline Hub is a React.js-based application that fetches and displays the lates
 ## Deployment 🚀
 
 - The application is deployed using **Vercel** for a reliable and fast hosting experience.
-- **Live Link:** [Your Live Link Here] 🔗
+- **Live Link:** [[Your Live Link Here]](https://headlinehub-iota.vercel.app/) 🔗
 
 ---
 
